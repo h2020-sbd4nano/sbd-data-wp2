@@ -13,6 +13,7 @@
 
 <https://atena.urv.cat/model/>
  a                    void:DatasetDescription ;
+ dc:source            <https://atena.urv.cat/model/> ;
  dct:title            "SbD4nano Nanocompound"@en ;
  dct:license          <http://example.com/unknown> ;
  foaf:img             <https://www.urv.cat/media/img/logo-urv-nav.png> .
