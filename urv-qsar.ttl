@@ -45,7 +45,7 @@
 <https://atena.urv.cat/model/#Anantha2021> a sbd:Model ;
   dc:source <https://atena.urv.cat/model/> ;
   rdfs:label "Nanocompound: Toxicity Metal-Oxide: Anantha 2021" ;
-  dc:description "Prediction of toxicity of Metal-Ozide (binary output). It corresponds to the model presented in: NanoTox: Development of a Parsimonious In Silico Model for Toxicity Assessment of Metal-Oxide Nanoparticles Using Physicochemical Features, Nilesh Anantha Subramanian and Ashok Palaniappan, ACS Omega 2021 6 (17), 11729-11739, DOI: 10.1021/acsomega.1c01076"@en ;
+  dc:description "Prediction of toxicity of Metal-Oxide (binary output). It corresponds to the model presented in: NanoTox: Development of a Parsimonious In Silico Model for Toxicity Assessment of Metal-Oxide Nanoparticles Using Physicochemical Features, Nilesh Anantha Subramanian and Ashok Palaniappan, ACS Omega 2021 6 (17), 11729-11739, DOI: 10.1021/acsomega.1c01076"@en ;
   dct:license <http://example.com/unknown> ;
   foaf:page <https://atena.urv.cat/model/> ;
   sbdbel:NP MOx: .
@@ -53,7 +53,7 @@
 <https://atena.urv.cat/model/#Puzyn2011> a sbd:Model ;
   dc:source <https://atena.urv.cat/model/> ;
   rdfs:label "Nanocompound: Toxicity Metal-Oxide: Puzyn 2011" ;
-  dc:description "Prediction of toxicity of Metal-Ozide (log(1/EC50)). It corresponds to the model presented in: Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles, Tomasz Puzyn, Bakhtiyor Rasulev, Agnieszka Gajewicz, Xiaoke Hu, Thabitha P Dasari, Andrea Michalkova, Huey-Min Hwang, Andrey Toropov, Danuta Leszczynska, Jerzy Leszczynski, Nature Nanotechnology, 2011 M6(3), DOI: 10.1038/nnano.2011.10"@en ;
+  dc:description "Prediction of toxicity of Metal-Oxide (log(1/EC50)). It corresponds to the model presented in: Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles, Tomasz Puzyn, Bakhtiyor Rasulev, Agnieszka Gajewicz, Xiaoke Hu, Thabitha P Dasari, Andrea Michalkova, Huey-Min Hwang, Andrey Toropov, Danuta Leszczynska, Jerzy Leszczynski, Nature Nanotechnology, 2011 M6(3), DOI: 10.1038/nnano.2011.10"@en ;
   dct:license <http://example.com/unknown> ;
   foaf:page <https://atena.urv.cat/model/> ;
   sbdbel:NP MOx: .
@@ -61,7 +61,7 @@
 <https://atena.urv.cat/model/#Gajewicz2015> a sbd:Model ;
   dc:source <https://atena.urv.cat/model/> ;
   rdfs:label "Nanocompound: Toxicity Metal-Oxide: Gajewicz 2015" ;
-  dc:description "Prediction of toxicity of Metal-Ozide (log(1/EC50)). It corresponds to the model presented in: Agnieszka Gajewicz, Nicole Schaeublin, Bakhtiyor Rasulev, Saber Hussain, Danuta Leszczynska, Tomasz Puzyn & Jerzy Leszczynski (2015) Towards understanding mechanisms governing cytotoxicity of metal oxides nanoparticles: Hints from nano-QSAR studies, Nanotoxicology, 9:3, 313-325, DOI: 10.3109/17435390.2014.930195"@en ;
+  dc:description "Prediction of toxicity of Metal-Oxide (log(1/EC50)). It corresponds to the model presented in: Agnieszka Gajewicz, Nicole Schaeublin, Bakhtiyor Rasulev, Saber Hussain, Danuta Leszczynska, Tomasz Puzyn & Jerzy Leszczynski (2015) Towards understanding mechanisms governing cytotoxicity of metal oxides nanoparticles: Hints from nano-QSAR studies, Nanotoxicology, 9:3, 313-325, DOI: 10.3109/17435390.2014.930195"@en ;
   dct:license <http://example.com/unknown> ;
   foaf:page <https://atena.urv.cat/model/> ;
   sbdbel:NP MOx: .
@@ -69,7 +69,7 @@
 <https://atena.urv.cat/model/#Serratosa2022> a sbd:Model ;
   dc:source <https://atena.urv.cat/model/> ;
   rdfs:label "Nanocompound: Toxicity Metal-Oxide: Serratosa2022" ;
-  dc:description "Prediction of toxicity of Metal-Ozide (binary output). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
+  dc:description "Prediction of toxicity of Metal-Oxide (binary output). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
   dct:license <http://example.com/unknown> ;
   foaf:page <https://atena.urv.cat/model/> ;
   sbdbel:NP MOx: .
@@ -77,7 +77,7 @@
 <https://atena.urv.cat/model/#Serratosa2022> a sbd:Model ;
   dc:source <https://atena.urv.cat/model/> ;
   rdfs:label "Nanocompound: Toxicity Metal-Oxide: Serratosa2022" ;
-  dc:description "Prediction of toxicity of Metal-Ozide (binary output). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
+  dc:description "Prediction of toxicity of Metal-Oxide (binary output). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
   dct:license <http://example.com/unknown> ;
   foaf:page <https://atena.urv.cat/model/> ;
   sbdbel:NP MOx: .
@@ -85,7 +85,7 @@
 <https://atena.urv.cat/model/#Serratosa2022-TiO2ZnO> a sbd:Model ;
   dc:source <https://atena.urv.cat/model/> ;
   rdfs:label "Nanocompound: LDH(TiO2+ZnO): Serratosa2022" ;
-  dc:description "Prediction of toxicity of Metal-Ozide (LDH). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
+  dc:description "Prediction of toxicity of Metal-Oxide (LDH). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
   dct:license <http://example.com/unknown> ;
   foaf:page <https://atena.urv.cat/model/> ;
   sbdbel:NP TiO2:, ZnO: .
@@ -93,7 +93,7 @@
 <https://atena.urv.cat/model/#Serratosa2022-TiO2> a sbd:Model ;
   dc:source <https://atena.urv.cat/model/> ;
   rdfs:label "Nanocompound: LDH(TiO2): Serratosa2022" ;
-  dc:description "Prediction of toxicity of Metal-Ozide (LDH). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
+  dc:description "Prediction of toxicity of Metal-Oxide (LDH). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
   dct:license <http://example.com/unknown> ;
   foaf:page <https://atena.urv.cat/model/> ;
   sbdbel:NP TiO2: .
@@ -101,7 +101,7 @@
 <https://atena.urv.cat/model/#Serratosa2022-ZnO> a sbd:Model ;
   dc:source <https://atena.urv.cat/model/> ;
   rdfs:label "Nanocompound: LDH(ZnO): Serratosa2022" ;
-  dc:description "Prediction of toxicity of Metal-Ozide (LDH). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
+  dc:description "Prediction of toxicity of Metal-Oxide (LDH). It corresponds to the model presented in: F. Serratosa, S. Álvarez, L. Escorihuela and M. Calatayud, Subgraph NanoFingerprint for modelling metal oxide nanoparticles based on connected atoms exploration. NanoWeek & NanoCommons Final Conference 2022, Cyprus 2022."@en ;
   dct:license <http://example.com/unknown> ;
   foaf:page <https://atena.urv.cat/model/> ;
   sbdbel:NP ZnO: .
